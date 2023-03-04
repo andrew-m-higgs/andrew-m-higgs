@@ -23,6 +23,6 @@ I am a web developer from South Africa. I am always looking for new challenges i
 Love open source and everything about it. 
 
 ### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=andrew-m-higgs&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=andrew-m-higgs&theme=highContrast)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andrew-m-higgs&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
