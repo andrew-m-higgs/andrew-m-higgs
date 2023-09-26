@@ -23,4 +23,4 @@ I am a web developer from South Africa. I am always looking for new challenges i
 Love open source and everything about it. 
 
 ### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=andrew-m-higgs&theme=highContrast)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=andrew-m-higgs&theme=highContrast)]([https://git.io/streak-stats](http://github-readme-streak-stats.herokuapp.com?user=andrew-m-higgs&theme=highContrast)http://github-readme-streak-stats.herokuapp.com?user=andrew-m-higgs&theme=highContrast)
