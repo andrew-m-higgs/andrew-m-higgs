@@ -18,6 +18,7 @@
 I'm a web developer from South Africa. I'm always looking for new challenges in the web development field. 
 - :telescope: I'm freelancing as a web developer and contributing to frontend and backend for building web applications.
 - :seedling: Exploring Discord bots.
+- :zap: Enjoy eletronics and the maker lifestyle.
 - :zap: In my free time, I run, cycle and take photographs.
 - :tshirt: Also designing t-shirts.
 
